@@ -20,6 +20,6 @@ Next, head over to where you stored my code in your command line and execute the
 
 You should see something like this:
 
-![test-res.png](https://postimg.cc/7G9Tphv6)
+<img width="1980" height="500" src="test_res.png">
 
-Since our render_cars() function recieves the video and draws rectangles around it using the haar-like coordinates specified in Dr. Santos's paper, it may be finnicky depending on the .mp4 file you use to test the code, but with a pre-trained model I wouldn't expect perfection.
+Since our render_cars() function recieves the video and draws rectangles around it using the haar-like coordinates specified in Dr. Santos's paper, it may be finnicky depending on the .mp4 file you use to test the code. Although, with a pre-trained model I wouldn't expect perfection.
